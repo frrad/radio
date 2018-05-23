@@ -1,7 +1,7 @@
 #!/bin/bash
 
 TIMESTAMP=`date +'%s'`
-OUTPUT=$HOME/Downloads/$TIMESTAMP.mp3
+OUTPUT=$HOME/Projects/radio/$TIMESTAMP.mp3
 
 DURATION=120
 
